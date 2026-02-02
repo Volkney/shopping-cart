@@ -1,7 +1,7 @@
 const Main = ({ textSize = "text-9xl" }) => {
   return (
-    <div className={`${textSize} flex`}>
-      <h1 className="items-end">Shop Infinity</h1>
+    <div className={`${textSize} flex items-end`}>
+      <h1 className="font-bold">Shop Infinity</h1>
     </div>
   );
 };
