@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none">
+  <path stroke="#fff" d="M17.647 12.441h1.176" />
+  <path fill="#2B2B2B" d="M16.47 3.209 20 0l-.01 7.533-3.509 4.232-.01-8.556ZM7.7 15.331l2.905-3.515-6.78-.023L0 15.284l7.7.048Z" />
+  <path fill="#2B2B2B" d="M10.588 4.706h3.53v10.588h-3.53V4.706Z" />
+  <path fill="#2B2B2B" d="M10.588 11.765H20v3.529h-9.412z" />
+  <path fill="#2B2B2B" d="M15.294 11.765H20V20l-1.412-2.573-3.294-5.662ZM10.588 3.53h3.53v3.529h-7.06l3.53-3.53Z" />
+  <style>
+    path { fill:  #2b2b2b; }
+    @media (prefers-color-scheme: dark) {
+      path { fill: #e1e0dd; }
+    }
+  </style>
+</svg>
