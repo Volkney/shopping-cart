@@ -1,4 +1,6 @@
-const Footer = ({ mainText = "By this art you may contemplate" }) => {
+const Footer = ({
+  mainText = "By this art you may contemplate the variation of the twenty-three letters",
+}) => {
   return (
     <div className="p-2">
       <style>{`
