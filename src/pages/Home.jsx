@@ -1,5 +1,5 @@
 const Home = () => {
-  return <div>Home Page</div>;
+  return <div className="flex justify-between p-4">Home Page</div>;
 };
 
 export default Home;
